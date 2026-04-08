@@ -40,17 +40,14 @@ I particularly enjoy working on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
 </p>
 
-### Tools
-
-* Git
-* Linux
-* Makefile
-
 ---
 
 # 📫 Contact :
 <p>
   <a href="https://www.linkedin.com/in/[your-linkedin-username]" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+    <a href="https://github.com/baptistou76" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
