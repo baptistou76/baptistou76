@@ -7,6 +7,8 @@
 🚀 Currently looking for opportunities to apply my skills and contribute to real-world projects
 
 ---
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/bcaumont?1337Badge=off&UM6P=off" alt="bcaumont's 42 stats" /></a>
+---
 
 ## 🧠 About Me
 
@@ -121,5 +123,3 @@ I'm always interested in:
 * technical projects
 * collaborations
 * professional opportunities
-
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/bcaumont?1337Badge=off&UM6P=off" alt="bcaumont's 42 stats" /></a>
