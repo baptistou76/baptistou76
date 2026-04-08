@@ -1,16 +1,4 @@
-# 👋 Hello, I'm Baptiste
-
-🎓 Software development student at 42 School
-
-💻 Passionate about systems programming and technical challenges
-
-🚀 Currently looking for opportunities to apply my skills and contribute to real-world projects
-
----
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/bcaumont?1337Badge=off&UM6P=off" alt="bcaumont's 42 stats" /></a>
----
-
-## 🧠 About Me
+# 👋 Hello !! I'm Baptiste
 
 I am currently training as a software developer at 42 School, where I have worked on several demanding projects in C and C++. These projects helped me develop strong problem‑solving skills, technical rigor, and a solid understanding of how computer systems work.
 
@@ -24,22 +12,33 @@ I particularly enjoy working on:
 
 ---
 
-## 🛠️ Technical Skills
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/bcaumont?1337Badge=off&UM6P=off" alt="bcaumont's 42 stats" /></a>
 
-### Languages
+---
 
-* C
-* C++
-* Bash
+💻 Tech Stack :
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+</p>
 
-### Concepts
 
-* Systems programming
-* Process management
-* Threads and synchronization
-* Memory management
-* Parsing
-* Data structures
+---
+
+# 🛠️ Tools :
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/make/make-original.svg" alt="Makefile" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
+</p>
 
 ### Tools
 
@@ -49,77 +48,9 @@ I particularly enjoy working on:
 
 ---
 
-## 📂 Main Projects
-
-### Minishell
-
-Implementation of a simplified Unix shell.
-
-Features:
-
-* command execution
-* pipe management
-* input/output redirections
-* environment variables
-* built‑in commands
-
-Concepts used:
-
-* fork
-* execve
-* pipes
-* command parsing
-
----
-
-### Philosophers
-
-Simulation of the classic Dining Philosophers problem.
-
-Concepts explored:
-
-* concurrency
-* threads
-* semaphores
-* synchronization
-* time management
-
----
-
-### Cub3D
-
-Creation of a simple graphics engine using raycasting.
-
-Features:
-
-* pseudo‑3D rendering
-* player movement
-* map management
-* collision detection
-
----
-
-## 📚 Currently Learning
-
-* Advanced C++
-* Data structures
-* Performance optimization
-* Software architecture
-
----
-
-## 🎯 Objective
-
-To keep improving as a software developer, contribute to challenging technical projects, and build reliable and efficient software solutions.
-
----
-
-## 📫 Contact
-
-GitHub: [https://github.com/[your-username](https://github.com/[your-username)]
-
-I'm always interested in:
-
-* technical projects
-* collaborations
-* professional opportunities
+# 📫 Contact :
+<p>
+  <a href="https://www.linkedin.com/in/[your-linkedin-username]" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
