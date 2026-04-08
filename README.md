@@ -1,7 +1,9 @@
 # 👋 Hello, I'm Baptiste
 
 🎓 Software development student at 42 School
+
 💻 Passionate about systems programming and technical challenges
+
 🚀 Currently looking for opportunities to apply my skills and contribute to real-world projects
 
 ---
