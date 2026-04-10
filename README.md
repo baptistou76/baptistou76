@@ -18,10 +18,6 @@ performance optimization and memory management
 </div>
 ---
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/bcaumont?1337Badge=off&UM6P=off" alt="bcaumont's 42 stats" /></a>
-
----
-
 💻 Tech Stack :
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -55,4 +51,6 @@ performance optimization and memory management
     <a href="https://github.com/baptistou76" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
+  
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/bcaumont?1337Badge=off&UM6P=off" alt="bcaumont's 42 stats" /></a>
 </p>
