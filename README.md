@@ -1,15 +1,21 @@
 # 👋 Hello !! I'm Baptiste
 
+<div align="center">
 I am currently training as a software developer at 42 School, where I have worked on several demanding projects in C and C++. These projects helped me develop strong problem‑solving skills, technical rigor, and a solid understanding of how computer systems work.
 
 I particularly enjoy working on:
 
-* systems programming
-* process management
-* concurrency and synchronization
-* algorithms
-* performance optimization and memory management
+systems programming
 
+process management
+
+concurrency and synchronization
+
+algorithms
+
+performance optimization and memory management
+
+</div>
 ---
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/bcaumont?1337Badge=off&UM6P=off" alt="bcaumont's 42 stats" /></a>
@@ -26,7 +32,6 @@ I particularly enjoy working on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
 </p>
 
 
@@ -37,6 +42,7 @@ I particularly enjoy working on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
 </p>
 
 ---
