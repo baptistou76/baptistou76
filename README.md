@@ -11,6 +11,7 @@ I am passionate about programming and currently a post–common core student at 
 <p>
   <img src="./assets/c-original.svg" alt="c" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="./assets/Csharp_Logo.png" alt="c" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
@@ -32,6 +33,7 @@ I am passionate about programming and currently a post–common core student at 
   <img src="./assets/bash-original.svg" alt="bash" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
   <img src="./assets/vscode-original.svg" alt="vscode" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
   <img src="./assets/ubuntu-original.svg" alt="ubuntu" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
+  <img src="./assets/dot_net_original_logo_icon_146546.png" alt="ubuntu" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
 </p>
 
 ---
