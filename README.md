@@ -30,7 +30,7 @@ I am passionate about programming and currently a post–common core student at 
   <img src="./assets/linux-svgrepo-com.svg" alt="Linux" width="50" height="50"/>
   <img src="./assets/github-svgrepo-com.svg" alt="GitHub" width="50" height="50"/>
   <img src="./assets/logo-google-android-studio-2-svgrepo-com.svg" alt="Android Studio" width="50" height="50"/>
-  <img src="./assets/lutter-svgrepo-com.svg" alt="Flutter" width="50" height="50"/>
+  <img src="./assets/flutter-svgrepo-com.svg" alt="Flutter" width="50" height="50"/>
   <img src="./assets/bash-original.svg" alt="bash" width="50" height="50" style="vertical-align:top; margin:4px; border:none;">
   <img src="./assets/vscode-original.svg" alt="vscode" width="50" height="50" style="vertical-align:top; margin:4px; border:none;">
   <img src="./assets/ubuntu-original.svg" alt="ubuntu" width="50" height="50" style="vertical-align:top; margin:4px; border:none;">
