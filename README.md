@@ -40,9 +40,9 @@ I am passionate about programming and currently a post–common core student at 
 ---
 
 # 📫 Contact :
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/bcaumont" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+    <img src="./assets/linkedin-svgrepo-com.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
     <a href="https://github.com/baptistou76" target="_blank">
     <img src="./assets/github-svgrepo-com.svg" alt="GitHub" width="50" height="50"/>
