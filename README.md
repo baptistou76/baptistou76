@@ -7,33 +7,34 @@ I am passionate about programming and currently a post–common core student at 
 
 ---
 
-💻 Tech Stack :
-<p>
-  <img src="./assets/c-original.svg" alt="c" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
-  <img src="./assets/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="./assets/Csharp_Logo.png" alt="c" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="./assets/docker-original.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="./assets/mariadb-original.svg" alt="mariadb" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
+# 💻 Tech Stack :
+
+<p align="center">
+  <img src="./assets/c-original.svg" alt="c" width="50" height="50" style="vertical-align:top; margin:4px; border:none;">
+  <img src="./assets/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="./assets/csharp2-svgrepo-com.svg" alt="c" width="50" height="50" style="vertical-align:top; margin:4px; border:none;">
+  <img src="./assets/html-5-svgrepo-com.svg" alt="HTML" width="50" height="50"/>
+  <img src="./assets/css-3-svgrepo-com.svg" alt="CSS" width="50" height="50"/>
+  <img src="./assets/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img src="./assets/python-svgrepo-com.svg" alt="Python" width="50" height="50"/>
+  <img src="./assets/mysql-svgrepo-com.svg" alt="SQL" width="50" height="50"/>
+  <img src="./assets/dart-svgrepo-com.svg" alt="Dart" width="50" height="50"/>
+  <img src="./assets/mariadb-original.svg" alt="mariadb" width="50" height="50" style="vertical-align:top; margin:4px; border:none;">
 </p>
 
 
 ---
 
 # 🛠️ Tools :
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="./assets/bash-original.svg" alt="bash" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
-  <img src="./assets/vscode-original.svg" alt="vscode" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
-  <img src="./assets/ubuntu-original.svg" alt="ubuntu" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
-  <img src="./assets/dot_net_original_logo_icon_146546.png" alt="ubuntu" width="45" height="45" style="vertical-align:top; margin:4px; border:none;">
+<p align="center">
+  <img src="./assets/linux-svgrepo-com.svg" alt="Linux" width="50" height="50"/>
+  <img src="./assets/github-svgrepo-com.svg" alt="GitHub" width="50" height="50"/>
+  <img src="./assets/logo-google-android-studio-2-svgrepo-com.svg" alt="Android Studio" width="50" height="50"/>
+  <img src="./assets/lutter-svgrepo-com.svg" alt="Flutter" width="50" height="50"/>
+  <img src="./assets/bash-original.svg" alt="bash" width="50" height="50" style="vertical-align:top; margin:4px; border:none;">
+  <img src="./assets/vscode-original.svg" alt="vscode" width="50" height="50" style="vertical-align:top; margin:4px; border:none;">
+  <img src="./assets/ubuntu-original.svg" alt="ubuntu" width="50" height="50" style="vertical-align:top; margin:4px; border:none;">
+  <img src="./assets/dot_net_original_logo_icon_146546.png" alt="ubuntu" width="50" height="50" style="vertical-align:top; margin:4px; border:none;">
 </p>
 
 ---
